@@ -100,6 +100,8 @@ Click [here](https://wails.io) if you are interested in trying out v2 Beta for W
 - Powerful cli tool
 - Multiplatform
 
+###### Note: *Multi-window applications are currently unsupported*
+
 <span id="nav-5"></span>
 
 ## Sponsors
